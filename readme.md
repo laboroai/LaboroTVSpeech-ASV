@@ -37,3 +37,6 @@ The LaboroTVSpeech-ASV dataset is published in the same way as LaboroTVSpeech. T
    (1) refer to the "LaboroTVSpeechのご利用について" section in [this page](https://laboro.ai/activity/column/engineer/eg-laboro-tv-corpus-jp/)  
    or  
    (2) send an inquiry directly to our company via [this page](https://laboro.ai/contact/other/)  
+
+## License
+The content of this repository (excluding LaboroTVSpeech-ASV dataset itself) is released under Apache License v2.
